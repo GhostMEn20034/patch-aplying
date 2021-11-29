@@ -1,3 +1,6 @@
+import time
+
+
 class SentEmail:
 
     def __init__(self, a, b):
@@ -6,3 +9,9 @@ class SentEmail:
 
     def summarize(self):
         return self.b + self.b
+
+
+class Subtraction(SentEmail):
+
+    def deduction(self):
+        return self.a - self.b
