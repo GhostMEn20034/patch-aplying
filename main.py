@@ -1,6 +1,3 @@
-import time
-
-
 class SentEmail:
 
     def __init__(self, a, b):
