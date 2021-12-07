@@ -4,4 +4,4 @@ def mathik(numbs):
         return math.sqrt(numbs)
 
 
-print(mathik(9))
+print(mathik(90))
