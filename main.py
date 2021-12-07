@@ -18,3 +18,5 @@ class Multiply(SentEmail):
 
     def multi(self):
         return self.a * self.b
+    
+"This is forked repository"
