@@ -6,4 +6,5 @@ def mathik(numbs):
 
 print(mathik(90))
 print(mathik(9))
+print("XXXX")
 
