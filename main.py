@@ -18,3 +18,6 @@ class Multiply(SentEmail):
 
     def multi(self):
         return self.a * self.b
+
+    
+print("This is message for PR")
