@@ -5,5 +5,5 @@ It's my first normal 'markdown' file
 ```
 My tasks:
 - [X] Write the code
-- [ ] Write all the tests
+- [X] Write all the tests
 - [ ] Document the code
