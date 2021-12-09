@@ -21,3 +21,4 @@ class Multiply(SentEmail):
 
     
 print("This is message for PR")
+print("Trying e-mail applying of updates")
